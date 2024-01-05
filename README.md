@@ -27,5 +27,7 @@ source /etc/profile
 4、测试TensorRT安装
 进入到TensorRT安装目录下的手写数字识别samples，执行编译，执行测试：
 cd /opt/TensorRT-8.6.1.6/samples/sampleOnnxMNIST
+
 sudo make
+
 ../../bin/sample_onnx_mnist
