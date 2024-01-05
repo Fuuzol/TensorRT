@@ -1,6 +1,6 @@
 # TensorRT
 TensorRT部署
-TensorRT环境安装配置
+
 1、下载前相关查询：
 查看显卡驱动版本：nvidia-smi
 查看cuda版本：nvcc -V
